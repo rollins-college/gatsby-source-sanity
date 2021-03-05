@@ -70,6 +70,6 @@
     "typescript": "^3.9.5"
   },
   "peerDependencies": {
-    "gatsby": "^2.2.0"
+    "gatsby": "^3.0.0"
   }
 }
